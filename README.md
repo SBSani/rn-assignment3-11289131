@@ -40,16 +40,16 @@ The app starts with 15 ongoing tasks, and you can add more tasks as needed.
 ### Home Screen
 This is a screenshot of the blank template and it is also the start of the work.
 
-![Alt text](start.png)
+![start of the work](start.png)
 
 ### Categories
 This is a screenshot of the work when I was halfway through with the work.
 It comprises of the categories sections.
 
-![Alt text](ongoing.png)
+![ongoing work](ongoing.png)
 
 ### Add Task
 This is a screenshot of the "Add Task" in the work.
 This makes you able to add more tasks as needed.
 
-![Alt text](end.png)
+![the final page](end.png)
